@@ -20,13 +20,14 @@ Aquí comparto algunos de los trabajos que realizo como freelancer y desarrollad
 
 Paneles visuales y automatizados: finanzas personales, hábitos, KPIs de negocio.
 
-2️⃣ Automatización
+2️⃣ Trackers
+
+Seguimiento de objetivos, hábitos, ahorro, productividad y rutinas.
+
+3️⃣ Automatización
 
 Fórmulas avanzadas, validaciones, automatización de procesos y hojas inteligentes.
 
-3️⃣ Trackers
-
-Seguimiento de objetivos, hábitos, ahorro, productividad y rutinas.
 
 4️⃣ Análisis
 
