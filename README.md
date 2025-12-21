@@ -24,14 +24,14 @@ Paneles visuales y automatizados: finanzas personales, hábitos, KPIs de negocio
 
 Seguimiento de objetivos, hábitos, ahorro, productividad y rutinas.
 
-3️⃣ Automatización
+3️⃣ Finanzas
 
 Fórmulas avanzadas, validaciones, automatización de procesos y hojas inteligentes.
 
 
-4️⃣ Análisis
+4️⃣ Control y seguimiento
 
-Limpieza, ordenamiento y exploración de datos para reportes más claros.
+Limpieza, ordenamiento y seguimiento de tareas/operaciones.
 
 ## 📬 Contacto
 
