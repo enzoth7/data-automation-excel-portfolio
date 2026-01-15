@@ -16,20 +16,23 @@ Aquí comparto algunos de los trabajos que realizo como freelancer y desarrollad
 - Análisis y organización de datos
 
 ## 📁 Contenido del repositorio
-1️⃣ Dashboards
+1️- Dashboards
 
 Paneles visuales y automatizados: finanzas personales, hábitos, KPIs de negocio.
 
-2️⃣ Trackers
+2- Trackers
 
 Seguimiento de objetivos, hábitos, ahorro, productividad y rutinas.
 
-3️⃣ Finanzas
+3- Presupuestos
+
+Sistemas de presupuestación para determinar rápido costos y beneficios, todo en base a exhaustivo estudio de los procesos.
+
+4- Finanzas
 
 Fórmulas avanzadas, validaciones, automatización de procesos y hojas inteligentes.
 
-
-4️⃣ Control y seguimiento
+5- Control y seguimiento
 
 Limpieza, ordenamiento y seguimiento de tareas/operaciones.
 
